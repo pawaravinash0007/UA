@@ -19,9 +19,9 @@ with col1:
    
     TOEFL= st.sidebar.slider("TOEFL Score", 1.0, 10000.0, 0.5)
     
-    Universit= st.sidebar.slider("University Rating", 1.0, 10000.0, 0.5)
+    University= st.sidebar.slider("University Rating", 1.0, 10000.0, 0.5)
  
-    SO= st.sidebar.slider("SOP", 1.0, 10000.0, 0.5)
+    SOP= st.sidebar.slider("SOP", 1.0, 10000.0, 0.5)
   
     LOR= st.sidebar.slider("LOR", 1.0, 10000.0, 0.5)
    
