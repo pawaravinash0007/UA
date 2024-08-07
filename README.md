@@ -1,1 +1,1 @@
-# UA
+# university-admission
